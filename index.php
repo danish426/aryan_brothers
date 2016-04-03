@@ -33,123 +33,25 @@
 
 <body>
 <div class="page-wrapper">
- 	
+
 
 
     <!-- Main Header -->
-    <!--<header class="main-header">
-    	&lt;!&ndash; Header Top &ndash;&gt;
-    	<div class="header-top">
-        	<div class="auto-container clearfix">
-            	&lt;!&ndash; Top Left &ndash;&gt;
-            	<div class="top-left">
-                	<ul class="clearfix">
-                    	<li><a href="#">Welcome to Gumle - your finance and broker provider and service assitant</a></li>
-                    </ul>
-                </div>
-                
-                &lt;!&ndash; Top Right &ndash;&gt;
-                <div class="top-right">
-                	<ul class="clearfix">
-                    	<li><a href="#"><span class="icon fa fa-phone"></span> Call us +92 21 3562 2002-5</a></li>
-                        <li><a href="#"><span class="icon fa fa-caret-right"></span> Support</a></li>
-                    </ul>
-                </div>
-                
-            </div>
-        </div>&lt;!&ndash; Header Top End &ndash;&gt;
-        
-    	&lt;!&ndash;Header-Upper&ndash;&gt;
-        <div class="header-upper">
-        	<div class="auto-container">
-            	<div class="clearfix">
-                	
-                	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="#"><img src="images/header.png" width="100%" alt="" title="Convo"></a></div>
-                    </div>
+    <?php
+    include_once('header.php');
 
-                </div>
-            </div>
-        </div>
-        
-        &lt;!&ndash;Header-Lower&ndash;&gt;
-        <div class="header-lower">
-        	<div class="auto-container">
-            	&lt;!&ndash; Main Menu &ndash;&gt;
-                <nav class="main-menu">
-                    <div class="navbar-header">
-                        &lt;!&ndash; Toggle Button &ndash;&gt;
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    
-                    <div class="navbar-collapse collapse clearfix">
-                        <ul class="navigation clearfix">
-                            <li style="margin-left: 7%"><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About us</a></li>
-                            <li><a href="about.html">Chairman</a></li>
-                            <li><a href="services.html">Our Services</a> </li>
-
-                            <li><a href="contact.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </nav>&lt;!&ndash; Main Menu End&ndash;&gt;
-                
-            </div>
-        </div>
-
-    &lt;!&ndash;Bounce In Header&ndash;&gt;
-        <div class="bounce-in-header">
-        	<div class="auto-container clearfix">
-            	&lt;!&ndash;Logo&ndash;&gt;
-            	<div class="logo pull-left">
-                	<a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt=""></a>
-                </div>
-                
-                &lt;!&ndash;Right Col&ndash;&gt;
-                <div class="right-col pull-right">
-                	&lt;!&ndash; Main Menu &ndash;&gt;
-                    <nav class="main-menu">
-                        <div class="navbar-header">
-                            &lt;!&ndash; Toggle Button &ndash;&gt;
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            </button>
-                        </div>
-                        
-                        <div class="navbar-collapse collapse clearfix">
-                            <ul class="navigation clearfix">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About us</a></li>
-                                <li><a href="about.html">Chairman</a></li>
-                                <li><a href="services.html">Our Services</a> </li>
-
-                                <li><a href="contact.html">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </nav>&lt;!&ndash; Main Menu End&ndash;&gt;
-                </div>
-                
-            </div>
-        </div>
-    
-    </header>-->
+    ?>
     <!--End Main Header -->
-    
-    
+
+
     <!--Main Slider-->
     <section class="main-slider default-slider">
-    	
+
         <div class="bx-slider-outer">
-        	
+
             <!--Slider-->
             <ul class="main-bxslider">
-        		
+
                 <!--Slide Item-->
                 <li class="slide-item" style="background-image:url(images/main-slider/1.jpg);">
                 	<div class="auto-container clearfix">
@@ -173,7 +75,7 @@
                         </article>
                     </div>
                 </li>
-                
+
                 <!--Slide Item-->
                 <li class="slide-item" style="background-image:url(images/main-slider/3.jpg);">
                 	<div class="auto-container clearfix">
@@ -185,20 +87,20 @@
                         </article>
                     </div>
                 </li>
-                
 
-                
+
+
             </ul>
         </div>
-        
+
     </section>
-    
+
     <!--Featured Section-->
     <section class="default-section featured-section">
     	<div class="auto-container">
-            
+
         	<div class="row clearfix">
-            	
+
                 <!--Column-->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 featured-column">
                 	<article class="inner-box">
@@ -209,7 +111,7 @@
                         </div>-->
                     </article>
                 </div>
-                
+
                 <!--Column-->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 featured-column">
                 	<article class="inner-box">
@@ -220,7 +122,7 @@
                         </div>-->
                     </article>
                 </div>
-                
+
                 <!--Column-->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 featured-column">
                 	<article class="inner-box">
@@ -231,49 +133,49 @@
                         </div>-->
                     </article>
                 </div>
-                
 
-                
+
+
             </div>
-            
+
             <br>
-            
+
             <!--Next Section Link-->
         	<div class="next-section-link"><div class="icon img-circle scroll-to-target" data-target=".how-it-work"><span class="flaticon-down126"></span></div></div>
         </div>
     </section>
-    
-    
 
-    
-    
+
+
+
+
     <!--Default Section-->
     <section class="default-section">
     	<div class="auto-container">
-                        
+
         	<div class="row clearfix">
-            	
+
                 <!--Column-->
                 <div class="column text-column col-lg-4 col-md-6 col-xs-12">
-                	
+
                     <h2 class="default-title text-uppercase">Who We Are</h2>
                 	<div class="line-left"></div>
-                    
+
                     <div class="text">
                     	<p style="text-align: justify; font-size: 14px;">Aryan Brothers is the most preferred recruitment company for many of the most successful organizations in the gulf turn to when they need contract or permanent recruitment services. We delivering manpower recruiting services to clients, large and small, speaks volumes the fact clients keep coming back to Aryan Brothers is the true measure of our success. We are one of the top recruiters in the territories & communities we operate. We pride ourselves on our history of operating our business in an ethical manner.
                         </p>
                     </div>
                 </div>
-                
+
                 <!--Column-->
                 <div class="column text-column col-lg-4 col-md-6 col-xs-12">
-                	
+
                     <h2 class="default-title text-uppercase">What we Offer</h2>
                 	<div class="line-left"></div>
-                    
+
                     <!-- Accordion Box -->
                     <div class="accordion-box style-two">
-                        
+
                         <!-- Accordion -->
                         <article class="accordion animated out" data-delay="0" data-animation="fadeInUp">
                             <div class="acc-btn active">
@@ -283,7 +185,7 @@
                                 </p>
                             </div>
                         </article>
-                        
+
                         <!-- Accordion -->
                         <article class="accordion animated out" data-delay="0" data-animation="fadeInUp">
                             <div class="acc-btn">Consetetur sadipscing elitr, sed diam<div class="toggle-icon"><span class="plus flaticon-add30"></span><span class="minus flaticon-minus42"></span></div></div>
@@ -291,7 +193,7 @@
                                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed.</p>
                             </div>
                         </article>
-                        
+
                         <!-- Accordion -->
                         <article class="accordion animated out" data-delay="0" data-animation="fadeInUp">
                             <div class="acc-btn">Dolore magna aliquyam erat individum  <div class="toggle-icon"><span class="plus flaticon-add30"></span><span class="minus flaticon-minus42"></span></div></div>
@@ -299,74 +201,74 @@
                                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed.</p>
                             </div>
                         </article>
-                        
+
                     </div>
-                    
-                    
-                        
+
+
+
                 </div>
-                
+
                 <!--Column-->
                 <div class="column text-column col-lg-4 col-md-6 col-xs-12">
-                	
+
                     <h2 class="default-title text-uppercase">Skills and Experiences</h2>
                 	<div class="line-left"></div>
-                    
+
                     <!--Progress Levels-->
                     <div class="progress-levels medium-size">
-                                
+
                         <!--Skill Box-->
                         <div class="progress-box wow fadeInRight" data-wow-delay="100ms" data-wow-duration="1500ms">
                             <div class="box-title">Ticketing</div>
                             <div class="inner">
                                 <div class="bar">
                                     <div class="bar-innner"><div class="bar-fill" data-percent="80"><div class="percent"></div></div></div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!--Skill Box-->
                         <div class="progress-box wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="box-title">Branding</div>
                             <div class="inner">
                                 <div class="bar">
                                     <div class="bar-innner"><div class="bar-fill" data-percent="90"><div class="percent"></div></div></div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!--Skill Box-->
                         <div class="progress-box wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="box-title">Strategy Planning</div>
                             <div class="inner">
                                 <div class="bar">
                                     <div class="bar-innner"><div class="bar-fill" data-percent="60"><div class="percent"></div></div></div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!--Skill Box-->
                         <div class="progress-box wow fadeInRight" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div class="box-title">Website Analysis</div>
                             <div class="inner">
                                 <div class="bar">
                                     <div class="bar-innner"><div class="bar-fill" data-percent="88"><div class="percent"></div></div></div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
-                        
+
                 </div>
-                
-                
+
+
             </div>
 
-            
+
             <!--Next Section Link-->
         	<!--<div class="next-section-link"><div class="icon img-circle scroll-to-target" data-target=".what-we-offer"><span class="flaticon-down126"></span></div></div>-->
         </div>
@@ -441,148 +343,23 @@
 
 
     </marquee>
-    
 
-    
-    
-    
+
+
+
+
     <!--Main Footer-->
-    <footer class="main-footer">
-    	
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-            <div class="auto-container">
-                <div class="row clearfix">
-                	
-                    <!--Two 4th column-->
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                    	<div class="row clearfix">
-                            <div class="col-lg-5 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget about-widget">
-                                    <h2>About Us</h2>
-                                    <div class="text">
-                                        <p style="text-align: justify">As a dynamic overseas manpower services provider, we have a clear vision of our aims and objectives, which is supported by a value-driven culture of our organization. Our sound financial status and availability of the latest technological facilities helps in eliminating internal control weaknesses and ensure efficiency and accuracy of work, which results in smooth functioning of our businesses. While all our overseas manpower recruitment operations.</p>
-                                    </div>
-                                </div>
-                            </div>
+    <?php
+    include_once("footer.php");
+    ?>
 
-                            
-                            <!--Footer Column-->
-                            <div class="col-lg-3 col-sm-6 col-xs-12 column">
-                                <h2>Quick Links</h2>
-                                <div class="row clearfix">
-                                    
-                                    <div class="col-lg-6 col-sm-6 col-xs-12">
-                                        <div class="footer-widget links-widget">
-                                            <ul>
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="about.html">Chairman</a></li>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                
-                                        </div>
-                                    </div>
-
-
-                                </div>
-                            </div>
-
-
-                            <div class="col-lg-4 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget twitter-feeds">
-                                    <h2>Contact Info</h2>
-
-
-                                    <li>Office No 21/A Hotel Regency</li>
-                                    <li>Dr. Dawood Pota Road</li>
-                                    <li>Cantt Station Karachi Pakistan.</li>
-                                    <li><span>Email:</span><a href="#">info@aryanbrother.com</a></li>
-                                    <li><span>Phone:</span> +92-21-35652002</li>
-                                    <li><span>Phone:</span> +92-21-35652003</li>
-                                    <li><span>Phone:</span> +92-21-35652004</li>
-
-
-                                </div>
-                            </div>
-
-
-                    	</div>
-                    </div><!--Two 4th column End-->
-                    
-                    <!--Two 4th column-->
-                    <!--<div class="col-md-6 col-sm-12 col-xs-12">
-                    	<div class="row clearfix">
-                    		&lt;!&ndash;Footer Column&ndash;&gt;
-                        	<div class="col-lg-6 col-sm-6 col-xs-12 column">
-                            	<div class="footer-widget twitter-feeds">
-                                	<h2>Contact Info</h2>
-
-
-                                        <li>Office No 21/A Hotel Regency</li>
-                                        <li>Dr. Dawood Pota Road</li>
-                                        <li>Cantt Station Karachi Pakistan.</li>
-                                        <li><span>Email:</span><a href="#">info@aryanbrother.com</a></li>
-                                        <li><span>Phone:</span> +92-21-35652002</li>
-                                        <li><span>Phone:</span> +92-21-35652003</li>
-                                        <li><span>Phone:</span> +92-21-35652004</li>
-
-
-                                </div>
-                            </div>
-                            
-                            &lt;!&ndash;Footer Column&ndash;&gt;
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget newsletter-widget">
-                                    <h2>Subscribe Newsletter</h2>	
-                                    <form method="post" action="http://wp1.themexlab.com/html/gumble/contact.html">
-                                        <div class="form-group">
-                                            <input type="text" name="username" value="" placeholder="Enter Name" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <input type="text" name="useremail" value="" placeholder="Enter Email" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <button type="submit" class="theme-btn btn-style-one">Subscribe Now <span class="icon icon-right fa fa-angle-right"></span></button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>--><!--Two 4th column End-->
-                    
-                </div>
-                
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-    	<div class="footer-bottom">
-            <div class="auto-container clearfix">
-            	<!--Social Links-->
-            	<div class="social-links pull-right">
-                    <a href="#"><span class="fa fa-facebook-f"></span></a>
-                    <a href="#"><span class="fa fa-twitter"></span></a>
-                   <!-- <a href="#"><span class="fa fa-dribbble"></span></a>
-                    <a href="#"><span class="fa fa-google-plus"></span></a>
-                    <a href="#"><span class="fa fa-pinterest"></span></a>
-                    <a href="#"><span class="fa fa-instagram"></span></a>-->
-                </div>
-                <!--Copyright-->
-                <div class="copyright pull-left">ARYAN BROTHERS OVERSEAS EMPLOYMENT © 2016 | DESIGN & DEVELOPED BY <a href="http://bytetech.com.pk/" target="_blank"><B>BYTETECH</B> </a></div>
-            </div>
-        </div>
-        
-    </footer>
-    
 </div>
 <!--End pagewrapper-->
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="fa fa-arrow-up"></span></div>
 
-<script src="js/jquery.js"></script> 
+<script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bxslider.js"></script>
 <script src="js/jquery.easing.min.js"></script>
@@ -591,5 +368,4 @@
 <script src="js/script.js"></script>
 </body>
 
-<!-- Mirrored from wp1.themexlab.com/html/gumble/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Mar 2016 04:42:00 GMT -->
 </html>

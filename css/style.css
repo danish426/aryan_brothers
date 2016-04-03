@@ -4502,7 +4502,7 @@ ul,li{
 
 /* top bar styles */
 
-.top-bar {background: #00C7FE;padding: 7px 0;}
+.top-bar {background: #00C7FE;padding: 7px 0; display: none;}
 .top-bar p {margin: 0;color: #fff;font-size: 13px;}
 .top-bar .right-icons ul.social li {padding: 0;}
 .top-bar .right-icons ul.social li a{
@@ -4543,4 +4543,8 @@ ul,li{
 .mrq{
 	width: 100%;
 	height: 110px;
+}
+#about .featured-section{
+	position:relative;
+	padding:20px 0px 30px;
 }
