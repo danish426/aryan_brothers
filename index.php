@@ -54,14 +54,7 @@
 
                 <!--Slide Item-->
                 <li class="slide-item" style="background-image:url(images/main-slider/1.jpg);">
-                	<div class="auto-container clearfix">
-                    	<article class="big-circle img-circle bg_color_pink">
-                        	<h2>Investment <span class="color-default">Center</span></h2>
-                            <h3>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</h3>
-                            <div class="text"><p>Invidunt ut labore et dolore. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore. </p></div>
-                            <a href="#" class="theme-btn btn-style-five">Read More <span class="icon icon-right fa fa-angle-right"></span></a>
-                        </article>
-                    </div>
+
                 </li>
                 
                 <!--Slide Item-->

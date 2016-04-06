@@ -26,7 +26,10 @@
             	<div class="clearfix">
 
                 	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="index"><img src="images/header.png" width="100%" alt="" title="Convo"></a></div>
+                	    <div class="row">
+                	        <div class="logo col-md-1 col" ><img src="images/logo.gif"></div>
+                	        <div class="col-md-11"> <img src="images/header.jpg" style="float:left;" width="100%" alt="" title="Convo"></div>
+                	    </div>
                     </div>
 
                 </div>

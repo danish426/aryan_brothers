@@ -4548,3 +4548,11 @@ ul,li{
 	position:relative;
 	padding:20px 0px 30px;
 }
+.main-bxslider {
+	height: 300px !important;
+	overflow: hidden!important;
+}
+.main-bxslider img{height: 300px;}
+.bx-viewport{height: 300px !important;}
+.bx-viewport ul li {height: 300px !important;}
+.slide-item {background-size: 100% 300px !important;}
