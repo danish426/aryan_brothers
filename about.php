@@ -64,17 +64,21 @@
         	<div class="row clearfix">
 
                 <!--Column-->
-                <div class="column text-column col-md-6 col-sm-12 col-xs-12">
+                <div class="column text-column col-md-12 col-sm-12 col-xs-12" style="text-align:justify;">
                 	<div class="inner-box">
 
                         <!--Section Title-->
                         <div class="sec-title margin-bott-20">
-                            <div class="theme-text-blue">Lorem ipsum dolor sit amet, consetetur sadipscing elitr</div>
+
                             <h2>who we are and what we do</h2>
                         </div>
 
                         <div class="text">
-                        	<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum.</p>
+                        	<p>M/s. Aryan Brothers Overseas Employment was established with the mission to connect employer and employee and was founded to bridge the large gap between the unemployed and the employers, matching skill to work at abroad. Aryan Brothers Overseas Head Office is located in Karachi, and branch office located in Islamabad.</p>
+                        	<p>Aryan Brothers is an active player in the recruitment market and has been effectively providing manpower to clients throughout the Middle East and other major countries. Aryan Brothers overseas Employment Judiciously Short Lists .The Required Candidates with Precise Reviews and Succession of Interviews. Our outreach and significant experience of working with many important clients has brought to our company to the forefront. It allows us to be a single recruitment source for any client looking for manpower from Pakistan or elsewhere.</p>
+                        	<p>Aryan Brothers has supplied suitable Professional candidates to SAUDIA ARABIA and across the world. The agency clientele includes global organizations, multinationals, local companies as well as SME based in the MIDDLE EAST, FAR EAST, EUROPE and in countries like USA, CANADA, AUSTRLIA specially in SAUDIA ARBIA.</p>
+                        	<h5>LEGAL STATUS:</h5>
+                        	<p>Aryan Brothers Overseas Employment is a license / registered overseas recruitment agency having secured OVERSEAS EMPLOYMENT LICENCE NO. 3472 KARACHI from the Bureau of Emigration and Overseas Employment, Ministry of Labor Manpower and Overseas Pakistanis, Government of Pakistan.</p>
                         </div>
                         <br>
                         <a href="#" class="theme-btn btn-style-one">Contact Us <span class="ico icon-right fa fa-angle-right"></span></a>
@@ -83,9 +87,6 @@
                 </div>
 
                 <!--Column / Image Column-->
-                <div class="column image-column col-md-6 col-sm-12 col-xs-12">
-                	<figure class="image"><img class="img-responsive" src="images/resource/featured-image-4.jpg" alt=""></figure>
-                </div>
 
 
             </div>

@@ -47,7 +47,7 @@
 
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/page-title-bg-1.jpg);">
+    <section class="page-title" style="background-image:url(images/background/services.jpg);">
     	<div class="auto-container">
         	<div class="sec-title">
                 <h1>Our Services</h1>
